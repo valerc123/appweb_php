@@ -1,0 +1,40 @@
+/*
+la clave unica es el token  que se genera con (session_id();) que es diferente con cada disposito 
+
+encabezado:  va a tener 
+-token
+-nombre
+-telefono
+-direccion
+-correo
+-unidades
+-total
+-fecha de registro
+-estado
+
+detalle: va tener
+-referencia
+-nombreProducto
+-precio
+-impuestos
+-subtotal
+-token
+
+
+
+
+AJAX: procesos asincronos con js
+
+- antes de enviarse 
+- cuando se esta enviado
+- que errores se pueden presentar 
+
+para que funcione pide url, type y data
+en los formulario solo hay 2 tipos POST y GET.
+
+errores comunes: sintaxis , que la url no exista etc..
+
+utiliza un protocolo XMLHTTPrequest
+
+
+*/
